@@ -41,8 +41,7 @@ features:
     title: Logo Design
   - icon: xml
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus
-      mi.
+      HTML,CSS,JavaScript,React.
     title: Web Development
 portfolio:
   projects:
