@@ -4,7 +4,7 @@ hero:
     icon: briefcase-outline
     link: '/#portofolio'
     text: My work
-  heading: 'I''m Paco Cu, and I create'
+  heading: "I'm Aidan Ryan, and I create"
   image: /img/hero.jpeg
   secondButton:
     icon: whatsapp
@@ -28,9 +28,7 @@ about:
   heading: Who am I?
   image: /img/about.jpeg
   text: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus
-    mi, sit amet consequat leo. Integer non dolor non elit sodales consequat.
-    Integer tempor sollicitudin massa, vel sollicitudin ante dictum eu.
+    My name is Aidan and I am attending UpLeveled Bootcamp.I wish to work in web development.My skills are HTMl, CSS and JavaScript.
 features:
   - icon: monitor-screenshot
     text: >
@@ -39,8 +37,7 @@ features:
     title: UI/UX
   - icon: draw
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus
-      mi.
+      Hyper
     title: Logo Design
   - icon: xml
     text: >
@@ -77,4 +74,3 @@ portfolio:
 footer:
   text: © John Doe
 ---
-
