@@ -22,7 +22,7 @@ hero:
       show: true
   typed:
     - text: fast websites.
-    - text: beautiful logos.
+    - text: effecient websites.
     - text: great experiences.
 about:
   heading: Who am I?
