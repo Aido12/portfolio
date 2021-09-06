@@ -22,13 +22,13 @@ hero:
       show: true
   typed:
     - text: fast websites.
-    - text: effecient websites.
-    - text: great experiences.
+    - text: great websites.
+    - text: delivered to you.
 about:
   heading: Who am I?
   image: /img/about.jpeg
   text: >
-    My name is Aidan and I am attending UpLeveled Bootcamp.I wish to work in web development.My skills are HTMl, CSS and JavaScript.
+    My name is Aidan and I am attending UpLeveled Bootcamp.I wish to work in web development.My skills are HTML, CSS and JavaScript.
 features:
   - icon: monitor-screenshot
     text: >
